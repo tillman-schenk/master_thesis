@@ -33,12 +33,12 @@ Once the folders are set up and the paths are adjusted, you can reproduce the re
 
 ## File Structure
 - [`MA_00_MASTER.R`](MA_00_MASTER.R) – Main script to run the entire analysis
-- `MA_01_SETTINGS.R` – Contains path and settings configurations
-- `MA_02_LOAD_DATA.R` – Imports datasets
-- `MA_03_CLEAN_DATA.R` – Cleans and merges both datasets
-- `MA_04_VARIABLES.R` – Generates the key variables required for the summary statistics and regressions
-- `MA_05_SUMMARYSTATS.R` – Produces summary statistics and outputs LaTeX code
-- `MA_06_REGRESSIONS.R` – Runs key regressions and outputs LaTeX code
+- [`MA_01_SETTINGS.R`](MA_01_SETTINGS.R) – Contains path and settings configurations
+- [`MA_02_LOAD_DATA.R`](MA_02_LOAD_DATA.R) – Imports datasets
+- [`MA_03_CLEAN_DATA.R`](MA_03_CLEAN_DATA.R) – Cleans and merges both datasets
+- [`MA_04_VARIABLES.R`](MA_04_VARIABLES.R) – Generates the key variables required for the summary statistics and regressions
+- [`MA_05_SUMMARYSTATS.R`](MA_05_SUMMARYSTATS.R) – Produces summary statistics and outputs LaTeX code
+- [`MA_06_REGRESSIONS.R`](MA_06_REGRESSIONS.R) – Runs key regressions and outputs LaTeX code
 
 ## Reproducing Results
 The scripts are designed to:
@@ -46,7 +46,7 @@ The scripts are designed to:
 - Generate outputs that illustrate the relationship between productivity growth and labor demand.
 
 ## Thesis
-You can read the full thesis [here](Master_Thesis.pdf).
+You can read the full thesis [here](Master_Thesis_Schenk.pdf).
 
 ## License
 This project is licensed under the MIT License.

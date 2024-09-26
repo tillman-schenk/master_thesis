@@ -46,7 +46,7 @@ The scripts are designed to:
 - Generate outputs that illustrate the relationship between productivity growth and labor demand.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ## Contact
 For any questions or issues, feel free to contact me at [tillmanschenk@googlemail.com](mailto:tillmanschenk@googlemail.com).

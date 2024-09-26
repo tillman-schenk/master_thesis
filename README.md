@@ -32,7 +32,7 @@ Ensure that the paths in these scripts point to the correct directories where yo
 Once the folders are set up and the paths are adjusted, you can reproduce the results by running the `MA_00_Master.R` script. This will execute all steps necessary to replicate the analysis and generate the key results presented in the thesis.
 
 ## File Structure
-- [`MA_00_Master.R`](MA_00_Master.R) – Main script to run the entire analysis
+- [`MA_00_MASTER.R`](MA_00_MASTER.R) – Main script to run the entire analysis
 - `MA_01_SETTINGS.R` – Contains path and settings configurations
 - `MA_02_LOAD_DATA.R` – Imports datasets
 - `MA_03_CLEAN_DATA.R` – Cleans and merges both datasets
